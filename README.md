@@ -9,7 +9,7 @@ Me interessei pela área de TI no final do ano de 2020, comecei a dedicar tempo 
 * 🌍  I'm based in Recife - Pernambuco
 * 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/sergio-de-lima-jr-7585a6234/)
 * ✉️  You can contact me at [sergio.tjf1@gmail.com](mailto:sergio.tjf1@gmail.com)
-* 🧠  I'm learning JavaScript and Java
+* 🧠  I'm learning React.Js
 
 ### Skills
 
