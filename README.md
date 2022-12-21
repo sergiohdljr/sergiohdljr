@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍  Recife - Pernambuco<br>📚 Atualmente estudando React.js⚛️<br>🎯 Goals : Sempre aprender o máximo que puder.</p>
+<p align="left">🌍  Recife - Pernambuco<br>📚 Atualmente estudando React.js e TypeScript <br>🎯 Goals : No momento meu objetivo é conseguir a minha primeira oportunidade como desenvolvedor</p>
 
 ###
 
