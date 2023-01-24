@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Principais tecnologias</h3>
+<h3 align="left">Principais tecnologias:</h3>
 
 ###
 
@@ -33,4 +33,4 @@
 
 <h3 align=left >outras: </h3>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql)](https://skillicons.dev)
