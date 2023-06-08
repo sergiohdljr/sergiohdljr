@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-Meu nome é Sérgio, tenho 22 anos, estudo Análise e Desenvolvimento de sistemas(3º período) atualmente foco meus estudos na aréa do desenvolvimento front-end e todo o ecossistema javascript, me considero uma pessoa que adora estudar e aprender novas tecnologias. 
+Meu nome é Sérgio, tenho 22 anos, estudo Análise e Desenvolvimento de sistemas, atualmente foco meus estudos na aréa do desenvolvimento front-end e todo o ecossistema javascript, porém me considero uma pessoa que adora estudar e aprender novas tecnologias. 
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents,tailwind,sass,prisma,postgres,mysql)](https://skillicons.dev)<br/>
 
