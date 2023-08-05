@@ -1,11 +1,27 @@
-# Hey There! 👋
+## About Me 🚀
 
-Meu nome é Sérgio, tenho 22 anos, estudo Análise e Desenvolvimento de sistemas, atualmente foco meus estudos na aréa do desenvolvimento front-end e todo o ecossistema javascript, porém me considero uma pessoa que adora estudar e aprender novas tecnologias. 
+💡 Gosto muito de explorar novas tecnologias e diferentes stacks.\
+🎓 Graduando em Análise e Desenvilvimento de Sistemas na Faculdade Senac Pernambuco.\
+📚 Atualmente estudando Java, Spring, AngularJS e NestJS.\
+🍃 No tempo livre quando não estou codando gosto de ler e assistir filmes.
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,next,styledcomponents,tailwind,sass,prisma,postgres,mysql)](https://skillicons.dev)<br/>
+## 🛠️ Technologies & Tools
 
-  <summary>Github Stats ⚡</summary>
+### Front-End
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents)](https://skillicons.dev)
+
+### Back-End
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+
+## 📚 Contribuição Open-source:
+Até o momento contribui apenas para um projeto open-source, desejo aumentar esse número futuramente.
+
+- [`@trampar-de-casa`](https://github.com/ocodista/trampar-de-casa): Adicionei React-query para requisição de contagem de inscritos e criei uma página 404.
+
+## ⚡ Github Stats
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sergiohdljr&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiohdljr&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
