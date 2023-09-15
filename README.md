@@ -2,7 +2,7 @@
 
 💡 Gosto muito de explorar novas tecnologias e diferentes stacks.\
 🎓 Graduando em Análise e Desenvilvimento de Sistemas na Faculdade Senac Pernambuco.\
-📚 Atualmente estudando Java, Spring, AngularJS e NestJS.\
+📚 Atualmente estudando Java, Spring, Vue.js e NestJS.\
 🐧 Usuário Linux.\
 🍃 No tempo livre quando não estou codando gosto de ler e assistir filmes.
 
