@@ -9,7 +9,7 @@
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,styledcomponents)](https://skillicons.dev)
 
 ### Back-End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring)](https://skillicons.dev)
