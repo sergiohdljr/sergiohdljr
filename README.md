@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,firebase)](https://skillicons.dev)
 
 ## 📚 Contribuição Open-source:
 Até o momento contribui apenas para um projeto open-source, desejo aumentar esse número futuramente.
