@@ -28,7 +28,9 @@ I am a Softwre Developer.
  
 Até o momento contribui apenas para um projeto open-source, desejo aumentar esse número futuramente.
 
-- [`@trampar-de-casa`](https://github.com/ocodista/trampar-de-casa): Adicionei React-query para requisição de contagem de inscritos e criei uma página 404.
+- [`@trampar-de-casa`](https://github.com/ocodista/trampar-de-casa):
+     - Adicionei cachê com React-query para requisição de contagem de inscritos
+     - Criei uma página 404.
 
 **Github Stats**
 
