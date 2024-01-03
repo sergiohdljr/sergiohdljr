@@ -16,7 +16,7 @@ I am a Softwre Developer.
 ![Vue](https://img.shields.io/badge/-Vue.js-black?logo=vue.js&style=social)&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-black?logo=nestjs&style=social)&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/-NestJS-black?logo=express&style=social)&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/-Express-black?logo=express&style=social)&nbsp;&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-black?logo=prisma&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-black?logo=postgresql&style=social)&nbsp;&nbsp;
