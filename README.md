@@ -24,6 +24,8 @@ I am a Softwre Developer.
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiohdljr.sergiohdljr)
+
  📚 **Contribuição Open-source**:
  
 Até o momento contribui apenas para um projeto open-source, desejo aumentar esse número futuramente.
