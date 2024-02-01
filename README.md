@@ -26,14 +26,6 @@ I am a Softwre Developer.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiohdljr.sergiohdljr)
 
- 📚 **Contribuição Open-source**:
- 
-Até o momento contribui apenas para um projeto open-source, desejo aumentar esse número futuramente.
-
-- [`@trampar-de-casa`](https://github.com/ocodista/trampar-de-casa):
-     - Adicionei cachê com React-query para requisição de contagem de inscritos
-     - Criei uma página 404.
-
 **Github Stats**
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sergiohdljr&theme=graywhite&count_private=true&hide_border=true&line_height=20)</a>
