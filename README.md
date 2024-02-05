@@ -29,4 +29,4 @@ I am a Softwre Developer.
 **Github Stats**
 
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sergiohdljr&theme=graywhite&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiohdljr&layout=compact&theme=graywhite&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiohdljr&layout=compact&langs_count=16&theme=graywhite&count_private=true&hide_border=true)</a>
