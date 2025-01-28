@@ -25,11 +25,6 @@ I am a Softwre Developer.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sergiohdljr.sergiohdljr)
-
-📚 studying : 
-   - ![Go](https://img.shields.io/badge/-Go-black=false?logo=go&style=social)&nbsp;&nbsp;
-      ![Redis](https://img.shields.io/badge/-Redis-black=false?logo=redis&style=social)&nbsp;&nbsp;
-      ![Docker](https://img.shields.io/badge/-Docker-black=false?logo=docker&style=social)&nbsp;&nbsp;
     
 **Github Stats**
 
